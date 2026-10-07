@@ -1,0 +1,45 @@
+commit 5eabc86bcd4527361a4b50cb38613acaccfdbf49
+Merge: 09a5024 2a77a8d
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 12:42:19 2026 +0300
+
+    Merge branch 'feature-b'
+    
+    # Conflicts:
+    #       README.md
+
+commit 2a77a8df38fd089ab82cc0946c668d45a333311c
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 12:38:35 2026 +0300
+
+    feature-b commit
+
+commit 09a5024812d9c6cba8732c6e3190d7f92d3091ab
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 12:37:35 2026 +0300
+
+    main commit
+
+commit 4a71af1e614817c065ada2e7cab7557b6f383a8a
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 12:04:36 2026 +0300
+
+    feature-b 3 str
+
+commit aca73a04c7e2d105ab66b41fe5fb2fa08c9fe501
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 10:39:01 2026 +0300
+
+    feature-a 4 str
+
+commit 75470663441cb6f3c8551b2b8d9d85eca6d474d6
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 10:38:24 2026 +0300
+
+    feature-a commit 3 str
+
+commit bd753219987f468561712b4babeacb7c0292081f
+Author: Артём Решетников <artemreshetnikov@MacBook-Pro--Artyom.local>
+Date:   Wed Oct 7 08:53:45 2026 +0300
+
+    Initial commit: readme add
